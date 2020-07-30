@@ -7,7 +7,7 @@
 ###3-List all rest of E-Mails which exists in your raw list.
 
 
-##How Use It?
+##How to Use It?
 
 ###1-Make a new directory on your local storage and save a copy of code in this directory.
 ###2-You need a clear CSV file which include emails separately in first column and and how many you want rows! but an E-Mail in each cell.
