@@ -1,3 +1,1 @@
-# Karademy-Python-Boot-Camp--Aksham-
-Assigments
-# I didnt learn Py in Standard way, I tried to find out some Python libraries by spyder IDE. 
+# This script help you will finding your desire letter in your desire text.
